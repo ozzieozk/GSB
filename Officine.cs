@@ -8,7 +8,7 @@ namespace GSB_
 {
     class Officine
     {
-        private int id;
+        protected int id;
         private string codepostal;
         private string ville;
         private string telephone;
@@ -26,5 +26,7 @@ namespace GSB_
         public string Ville { get => ville; set => ville = value; }
         public string Telephone { get => telephone; set => telephone = value; }
         public string Nom { get => nom; set => nom = value; }
+
+        
     }
 }
