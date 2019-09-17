@@ -8,7 +8,7 @@ namespace GSB_
 {
     class Officine
     {
-        private int id;
+        protected int id;
         private string codepostal;
         private string ville;
         private string telephone;
