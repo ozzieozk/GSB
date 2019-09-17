@@ -27,5 +27,7 @@ namespace GSB_
         public string Ville { get => ville; set => ville = value; }
         public string Telephone { get => telephone; set => telephone = value; }
         public string Nom { get => nom; set => nom = value; }
+
+
     }
 }
