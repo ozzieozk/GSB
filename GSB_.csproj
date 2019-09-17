@@ -55,8 +55,9 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Officine.cs" />
-    <Compile Include="Parapharmacie.cs" />
-    <Compile Include="Program.cs" />
+	<Compile Include="Pharmacie.cs" />
+	<Compile Include="Parapharmacie.cs" />
+	<Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
